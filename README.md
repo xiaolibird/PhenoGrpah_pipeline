@@ -18,8 +18,8 @@ This package implements PhenoGraph analytical pipeline with Jupyter Notebook ini
 }
 ```
 
----## Dependencies
+## Dependencies
 * ["PhenoGraph for Python3"](https://github.com/jacoblevine/PhenoGraph)
-* Anaconda3: matplotlib, seaborn, scipy.stats
-* Flowtools: fcs_reader.py has been refined for python3 
+* Anaconda3 packages: matplotlib, seaborn, scipy.stats, and so forth
+* Flowtoolw
 * [lifelines](https://github.com/CamDavidsonPilon/lifelines)
